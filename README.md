@@ -1,5 +1,5 @@
 # Hi 👋, I'm Naufal Azfar Riffatin
-![Naufal Azfar](img/github-banner.png)
+[![Naufal Azfar](img/github-banner.png)](https://github.com/NaufalAzfar2109)
 
 I am a Website Developer who is passionate about learning and is curious.
 ### 🚀 Programming Languages and Tools I’ve Learned
@@ -15,7 +15,7 @@ I am a Website Developer who is passionate about learning and is curious.
 <a href="https://www.apachefriends.org/download.html"><img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" /></a>
 <a href="https://laragon.org/"><img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white" /></a>
 <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /></a>
-<a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>
+<a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>
 <a href="https://figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></a>
 <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /></a>
 
