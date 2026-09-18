@@ -25,3 +25,7 @@ I am a Website Developer who is passionate about learning and is curious.
 
 ### My Github Stats
 [![Naufal Azfar GitHub stats](https://github-stats-extended.vercel.app/api?username=NaufalAzfar2109&show_icons=true&theme=github_dark)](https://github.com/NaufalAzfar2109)
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/NaufalAzfar2109/NaufalAzfar2109/snake-output/snake.svg" alt="Snake animation" />
+
+###
