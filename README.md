@@ -28,9 +28,9 @@ I am a Website Developer who is passionate about learning and is curious.
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=90d5ff" width="467px">
 </p>
 
-<a href="#" align="center">
+<p" align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=NaufalAzfar2109&show_icons=true&theme=dark_github">
-</a>
+</p>
 
 <p align="center">
   <picture>
