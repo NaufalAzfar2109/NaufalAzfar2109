@@ -24,9 +24,9 @@ I am a Website Developer who is passionate about learning and is curious.
 [![https://www.instagram.com/nfll__az/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nfll__az/)
 
 ### My Github Stats
-<a href="#" align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=90d5ff" width="467px">
-</a>
+</p>
 
 <a href="#" align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=NaufalAzfar2109&show_icons=true&theme=dark_github">
@@ -44,7 +44,7 @@ I am a Website Developer who is passionate about learning and is curious.
   </picture>
 </p>
 
-<a href="#" align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=90d5ff" width="467px">
-</a>
+</p>
 </div>
