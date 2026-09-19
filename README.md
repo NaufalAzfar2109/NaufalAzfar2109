@@ -30,11 +30,13 @@ I am a Website Developer who is passionate about learning and is curious.
   </a>
 </div>
 
-<p align="center">
-  <a href="#">
-  <img src="https://github-stats-extended.vercel.app/api?username=NaufalAzfar2109&show_icons=true&theme=dark_github">
-  </a>
-</p>
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api?username=NaufalAzfar2109&show_icons=true&theme=dark_github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=NaufalAzfar2109&layout=compact&langs_count=8&card_width=320&theme=light_github" />
+  </picture>
 
 <p align="center">
   <picture>
