@@ -1,4 +1,3 @@
-
 <picture>
     <source srcset="img/github-banner.png" />
     <img src="img/github-banner.png" />
