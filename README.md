@@ -1,4 +1,3 @@
-# Hi 👋, I'm Naufal Azfar Riffatin
 [![Naufal Azfar](img/github-banner.png)](#)
 
 I am a Website Developer who is passionate about learning and is curious.
