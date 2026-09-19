@@ -1,5 +1,5 @@
 # Hi 👋, I'm Naufal Azfar Riffatin
-[![Naufal Azfar](img/github-banner.png)]
+[![Naufal Azfar](img/github-banner.png)](#)
 
 I am a Website Developer who is passionate about learning and is curious.
 ### 🚀 Programming Languages and Tools I’ve Learned
@@ -25,11 +25,15 @@ I am a Website Developer who is passionate about learning and is curious.
 
 ### My Github Stats
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=90d5ff" width="467px" style="pointer-events: none;">
+  <a href="#">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=90d5ff" width="467px">
+  </a>
 </div>
 
 <p align="center">
+  <a href="#">
   <img src="https://github-stats-extended.vercel.app/api?username=NaufalAzfar2109&show_icons=true&theme=dark_github">
+  </a>
 </p>
 
 <p align="center">
@@ -45,6 +49,8 @@ I am a Website Developer who is passionate about learning and is curious.
 </p>
 
 <p align="center">
+  <a href="#">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=90d5ff" width="467px">
+  </a>
 </p>
 </div>
