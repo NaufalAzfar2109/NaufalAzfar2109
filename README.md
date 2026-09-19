@@ -1,5 +1,5 @@
 # Hi 👋, I'm Naufal Azfar Riffatin
-[![Naufal Azfar](img/github-banner.png)](https://github.com/NaufalAzfar2109)
+[![Naufal Azfar](img/github-banner.png)](#)
 
 I am a Website Developer who is passionate about learning and is curious.
 ### 🚀 Programming Languages and Tools I’ve Learned
@@ -31,9 +31,9 @@ I am a Website Developer who is passionate about learning and is curious.
 
 
 
-[![Naufal Azfar GitHub stats](https://github-stats-extended.vercel.app/api?username=NaufalAzfar2109&show_icons=true&theme=dark_github)](https://github.com/NaufalAzfar2109)
+[![Naufal Azfar GitHub stats](https://github-stats-extended.vercel.app/api?username=NaufalAzfar2109&show_icons=true&theme=dark_github)](#)
 
-<a href="https://github.com/NaufalAzfar2109">
+<a href="#">
   <picture>
     <source
       srcset="https://github-stats-extended.vercel.app/api/top-langs?username=NaufalAzfar2109&layout=compact&langs_count=8&card_width=467&card_height=200&theme=dark_github"
