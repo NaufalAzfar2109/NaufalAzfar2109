@@ -27,7 +27,7 @@ I am a Website Developer who is passionate about learning and is curious.
 <div style="text-align:center;">
 <div data-importer="border" style="cursor: default;">
   <a href="#">
-  <img style="width: 467px;" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=90d5ff"  />
+  <img style="width: 467px;" align="center" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=90d5ff"  />
   </a>
 </div>
 
