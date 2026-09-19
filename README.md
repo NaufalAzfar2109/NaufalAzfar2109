@@ -31,7 +31,7 @@ I am a Website Developer who is passionate about learning and is curious.
 <div align="center" style="padding-bottom: 20px;">
     <picture>
     <source srcset="https://github-stats-extended.vercel.app/api?username=NaufalAzfar2109&theme=dark_github" media="(prefers-color-scheme: dark)"/>
-    <img align="center" src="https://github-stats-extended.vercel.app/api?username=NaufalAzfar2109&theme=light_github" />
+    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api?username=NaufalAzfar2109&theme=light_github" />
   </picture>
 </div>
 
