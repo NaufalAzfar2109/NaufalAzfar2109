@@ -24,23 +24,25 @@ I am a Website Developer who is passionate about learning and is curious.
 [![https://www.instagram.com/nfll__az/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nfll__az/)
 
 ### My Github Stats
+<div style="display: flex; flex-direction: column; align-items: center;">
 <div data-importer="border">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=90d5ff"  />
+  <img style="width: 467px;" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=90d5ff"  />
 </div>
 
 
 
-[![Naufal Azfar GitHub stats](https://github-stats-extended.vercel.app/api?username=NaufalAzfar2109&show_icons=true&card_width=1000&theme=dark_github)](https://github.com/NaufalAzfar2109)
+[![Naufal Azfar GitHub stats](https://github-stats-extended.vercel.app/api?username=NaufalAzfar2109&show_icons=true&theme=dark_github)](https://github.com/NaufalAzfar2109)
 
 <a href="https://github.com/NaufalAzfar2109">
   <picture>
     <source
-      srcset="https://github-stats-extended.vercel.app/api/top-langs?username=NaufalAzfar2109&layout=compact&langs_count=8&card_width=1000&card_height=200&theme=dark_github"
+      srcset="https://github-stats-extended.vercel.app/api/top-langs?username=NaufalAzfar2109&layout=compact&langs_count=8&card_width=467&card_height=200&theme=dark_github"
       media="(prefers-color-scheme: dark)"
     />
     <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=NaufalAzfar2109&layout=compact&langs_count=8&card_width=320&theme=light_github" />
   </picture>
 </a>
 <div data-importer="border">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=90d5ff"  />
+  <img style="width: 467px;" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=90d5ff"  />
+</div>
 </div>
