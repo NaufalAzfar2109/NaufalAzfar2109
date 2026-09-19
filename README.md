@@ -25,7 +25,7 @@ I am a Website Developer who is passionate about learning and is curious.
 
 ### My Github Stats
 <div align="center">
-  <a href="javascript:void(0);"
+  <a href="javascript:void(0);">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=90d5ff" width="467px">
   </a>
 </div>
