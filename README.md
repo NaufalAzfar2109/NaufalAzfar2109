@@ -35,7 +35,7 @@ I am a Website Developer who is passionate about learning and is curious.
 <a href="https://github.com/NaufalAzfar2109">
   <picture>
     <source
-      srcset="https://github-stats-extended.vercel.app/api/top-langs?username=NaufalAzfar2109&layout=compact&langs_count=8&card_width=420&card_height=200&theme=dark_github"
+      srcset="https://github-stats-extended.vercel.app/api/top-langs?username=NaufalAzfar2109&layout=compact&langs_count=8&card_width=467&card_height=200&theme=dark_github"
       media="(prefers-color-scheme: dark)"
     />
     <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=NaufalAzfar2109&layout=compact&langs_count=8&card_width=320&theme=light_github" />
