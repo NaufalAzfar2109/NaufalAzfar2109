@@ -27,8 +27,8 @@ I am a Website Developer who is passionate about learning and is curious.
 <div data-importer="border" align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=90d5ff" width="467px" />
 </div>
-    
-<div align="center" style="margin-bottom: 20px">
+
+<div align="center" style="margin-bottom: 20px;">
     <picture>
     <source srcset="https://github-stats-extended.vercel.app/api?username=NaufalAzfar2109&theme=dark_github" media="(prefers-color-scheme: dark)"/>
     <img height="200" align="center" src="https://github-stats-extended.vercel.app/api?username=NaufalAzfar2109&theme=light_github" />
@@ -38,7 +38,7 @@ I am a Website Developer who is passionate about learning and is curious.
 <div align="center">
      <picture>
          <source srcset="https://github-stats-extended.vercel.app/api/top-langs?username=NaufalAzfar2109&layout=compact&langs_count=8&card_width=320&theme=dark_github" media="(prefers-color-scheme: dark)" />
-        <img height="200" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=NaufalAzfar2109&layout=compact&langs_count=8&card_width=320&theme=light_github" />
+        <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=NaufalAzfar2109&layout=compact&langs_count=8&card_width=467&theme=light_github" />
   </picture>
 </div>
 
