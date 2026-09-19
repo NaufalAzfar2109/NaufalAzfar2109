@@ -30,19 +30,16 @@ I am a Website Developer who is passionate about learning and is curious.
     
 <div align="center" style="margin-bottom: 20px">
     <picture>
-    <source
-      srcset="https://github-stats-extended.vercel.app/api?username=anuraghazra&theme=dark_github"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api?username=anuraghazra&theme=light_github" />
+    <source srcset="https://github-stats-extended.vercel.app/api?username=NaufalAzfar2109&theme=dark_github" media="(prefers-color-scheme: dark)"/>
+    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api?username=NaufalAzfar2109&theme=light_github" />
   </picture>
 </div>
 
 <div align="center">
-    <picture>
-        <source srcset="https://github-stats-extended.vercel.app/api/top-langs?username=NaufalAzfar2109&layout=compact&langs_count=8&card_width=467&card_height=200&theme=dark_github " media="(prefers-color-scheme: dark)" />
-        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=NaufalAzfar2109&layout=compact&langs_count=8&card_width=320&theme=light_github" />
-    </picture>
+     <picture>
+         <source srcset="https://github-stats-extended.vercel.app/api/top-langs?username=NaufalAzfar2109&layout=compact&langs_count=8&card_width=320&theme=dark_github" media="(prefers-color-scheme: dark)" />
+        <img height="200" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=NaufalAzfar2109&layout=compact&langs_count=8&card_width=320&theme=light_github" />
+  </picture>
 </div>
 
 <div align="center">
