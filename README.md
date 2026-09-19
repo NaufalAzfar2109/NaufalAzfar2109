@@ -28,7 +28,7 @@ I am a Website Developer who is passionate about learning and is curious.
     <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=90d5ff" width="467px" />
 </div>
 
-<div align="center" style="margin-bottom: 20px;">
+<div align="center" style="padding-bottom: 20px;">
     <picture>
     <source srcset="https://github-stats-extended.vercel.app/api?username=NaufalAzfar2109&theme=dark_github" media="(prefers-color-scheme: dark)"/>
     <img height="200" align="center" src="https://github-stats-extended.vercel.app/api?username=NaufalAzfar2109&theme=light_github" />
