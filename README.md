@@ -26,9 +26,9 @@ I am a Website Developer who is passionate about learning and is curious.
 ### My Github Stats
 <div style="text-align:center;">
 <div data-importer="border">
-<a href="#">
+<p>
   <img style="width: 467px;" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=90d5ff"  />
-</a>
+</p>
 </div>
 
 [![Naufal Azfar GitHub stats](https://github-stats-extended.vercel.app/api?username=NaufalAzfar2109&show_icons=true&theme=dark_github)](#)
